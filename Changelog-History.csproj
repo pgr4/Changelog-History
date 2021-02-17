@@ -6,4 +6,13 @@
     <RootNamespace>Changelog_History</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.extensions.dependencyinjection" Version="5.0.1" />
+    <PackageReference Include="Microsoft.extensions.logging" Version="5.0.0" />
+    <PackageReference Include="Microsoft.extensions.logging.console" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.logging.debug" Version="5.0.0" />
+    <PackageReference Include="NDesk.Options.Core" Version="1.2.5" />
+    <PackageReference Include="newtonsoft.json" Version="12.0.3" />
+  </ItemGroup>
+
 </Project>
